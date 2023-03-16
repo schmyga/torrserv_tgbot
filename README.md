@@ -4,7 +4,7 @@
 
 ## Установка
 
-+ pip install asyncio
++ pip install aiohttp
 + pip install lxml
 + pip install masscan (Linux) или https://github.com/Arryboom/MasscanForWindows
 + pip install matplotlib
